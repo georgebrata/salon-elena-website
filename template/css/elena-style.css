@@ -1,0 +1,15 @@
+.divider {
+    height: 50px;
+}
+.divider.h25 {
+    height: 25px;
+}
+.divider.h50 {
+    height: 50px;
+}
+.divider.h100 {
+    height: 100px;
+}
+.divider.h200 {
+    height: 200px;
+}
